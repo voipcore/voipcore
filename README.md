@@ -1,5 +1,6 @@
 # 💫 About Me:
-Im working on projects in js,cs and py
+Im working on My discord RAT tool to add new features
+[![Discord Rat](https://github.com/cu7n-fraud/DiscordRAT) 
 
 
 ## 🌐 Socials:
