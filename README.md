@@ -19,4 +19,3 @@ Im working on My discord RAT tool to add new features
 ---
 [![](https://visitcount.itsvg.in/api?id=cu7n-fraud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
