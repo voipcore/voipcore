@@ -1,6 +1,7 @@
 # 💫 About Me:
 Im working on My discord RAT tool to add new features
 [Discord Rat](https://github.com/cu7n-fraud/DiscordRAT) 
+And on my Discord SelfBot [Discord SelfBot](https://github.com/cu7n-fraud/Discord_selfbot) 
 
 
 ## 🌐 Socials:
