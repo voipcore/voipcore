@@ -4,6 +4,7 @@ Im working on My discord RAT tool to add new features
 
 And on my Discord SelfBot [Discord SelfBot](https://github.com/cu7n-fraud/Discord-selfbot) 
 
+Test out my new tweaks now [My New Tweaks](https://github.com/cu7n-fraud/ctvs-tweak)
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.cu7n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_w1ko) 
