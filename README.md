@@ -2,19 +2,6 @@
 voipcore@github:~$ neofetch
 ```
 
-```
- _____________________________________
-<      Welcome to my github page      >
- ------------------------------------- 
-      /\
-     /  \
-    /    \
-   /      \
-  /   ,,   \
- /   |  |   \
-/_-''    ''-_\
-```
-
 
 ```csharp
 voipcore@github
@@ -23,11 +10,6 @@ OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: Op/Sec
 Location: Germany, DE
-Cheat: Skeet
-Languages: To many <3
-Learning: Bash
-Hobbies: Coding, gaming
-Interests: Web Security
 Discord: voipcore
 ```
 
