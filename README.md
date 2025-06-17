@@ -31,7 +31,7 @@ Interests: Web Security
 Discord: voipcore
 ```
 
-```
+```cpp
 #include <iostream>
 #include <string>
 
