@@ -11,7 +11,7 @@ public:
 
     void introduce() {
         std::cout << "Founder of " << founder << " with " << coFounder << std::endl;
-        std::cout << "Join the community: " << discord << std::endl;
+        std::cout << "Join the dc: " << discord << std::endl;
     }
 };
 
