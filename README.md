@@ -1,10 +1,10 @@
 ```console
-xqi1337@github:~$ neofetch
+voipcore@github:~$ neofetch
 ```
 
 ```
  _____________________________________
-< Welcome to my personal github page! >
+<      Welcome to my github page      >
  ------------------------------------- 
       /\
      /  \
@@ -17,18 +17,18 @@ xqi1337@github:~$ neofetch
 
 
 ```csharp
-xqi1337@github
+voipcore@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: Op/Sec
 Location: Germany, DE
 Cheat: Skeet
-Languages: Python, Lua
+Languages: To many <3
 Learning: Bash
-Hobbies: Cooking, Gaming
-Interests: Network Security & Web Security
-Discord: xqi
+Hobbies: Coding, gaming
+Interests: Web Security
+Discord: voipcore
 ```
 
 ```
