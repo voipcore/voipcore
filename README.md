@@ -1,6 +1,6 @@
 
 <pre>
-```
+```cpp
 
 #include &lt;iostream&gt;
 #include &lt;string&gt;
