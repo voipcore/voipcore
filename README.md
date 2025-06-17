@@ -15,7 +15,6 @@ xqi1337@github:~$ neofetch
 /_-''    ''-_\
 ```
 
-<img align="left" src="https://github.com/xqi1337/xqi1337/blob/main/cropped.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```csharp
 xqi1337@github
