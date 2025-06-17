@@ -1,6 +1,6 @@
 
 <pre>
-```cpp
+
 
 #include &lt;iostream&gt;
 #include &lt;string&gt;
@@ -22,5 +22,5 @@ int main() {
     bio.introduce();
     return 0;
 }
-```
+
 </pre>
