@@ -8,7 +8,7 @@ voipcore@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
-Pronouns: Op/Sec
+Pronouns: Fem/boy
 Location: Germany, DE
 Discord: voipcore
 ```
