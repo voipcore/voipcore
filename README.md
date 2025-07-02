@@ -8,7 +8,7 @@ voipcore@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
-Pronouns: Fem/boy
+Pronouns: He/him
 Location: Germany, DE
 Discord: voipcore
 ```
@@ -21,7 +21,7 @@ class FlickOS {
 public:
     std::string founder = "@voipcore";
     std::string coFounder = "@nxmbb";
-    std::string discord = ".gg/veze";
+    std::string discord = ".gg/cybr";
 
     void introduce() {
         std::cout << "Founder of " << founder << " with " << coFounder << std::endl;
