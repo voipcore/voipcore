@@ -17,10 +17,10 @@ Discord: voipcore
 #include <iostream>
 #include <string>
 
-class FlickOS {
+class BlackByteOS {
 public:
     std::string founder = "@voipcore";
-    std::string coFounder = "@nxmbb";
+    std::string coFounder = "@cz7qu";
     std::string discord = ".gg/cybr";
 
     void introduce() {
@@ -30,7 +30,7 @@ public:
 };
 
 int main() {
-    FlickOS bio;
+    BlackByteOS bio;
     bio.introduce();
     return 0;
 }
