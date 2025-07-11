@@ -1,6 +1,7 @@
 ```console
 voipcore@github:~$ neofetch
 ```
+```
       /\
      /  \
     /    \
@@ -8,6 +9,7 @@ voipcore@github:~$ neofetch
   /   ,,   \
  /   |  |   \
 /_-''    ''-_\
+```
 
 ```csharp
 voipcore@github
